@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.rainbow {
+  background-image: linear-gradient(90deg, #F79533 0%, #F37055 15%, #EF4E7B 30%, #A166AB 44%, #5073B8 58%, #1098AD 72%, #07B39B 86%, #6DBA82 100%);
+}
+
+.r{
+  background-color: #F79533;
+}
+.a{
+  background-color: #F37055;
+}
+.i{
+  background-color: #EF4E7B;
+}
+.n{
+  background-color: #A166AB;
+}
+.b{
+  background-color: #5073B8;
+}
+.o{
+  background-color: #1098AD;
+}
+.w{
+  background-color: #07B39B;
+}
+.s{
+  background-color: #6DBA82;
+}
+
+a{
+  color: #F37055;
+}
+
+.fill {
+  min-height: 100vh !important;
+  height: 100% !important;
+}
+
+body, html {
+  height: 100% !important;
+}
+
+.treeview > .toggle {
+  pointer-events: all;
+  cursor: pointer;
+}
+.treeview > .toggle:hover {
+  color: #d8de13;
+  fill: #6DBA82;
+}
+svg.toggle{
+ fill: #1098AD;
+}
+em{
+  background-image: linear-gradient(90deg, #F79533 0%, #F37055 15%, #EF4E7B 30%, #A166AB 44%, #5073B8 58%, #1098AD 72%, #07B39B 86%, #6DBA82 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: larger;
+  font-weight: bold;
+  ;
+}
+searchBtn{
+  color: #1098AD;
+}
+value{
+  background-image: linear-gradient(90deg, #F79533 0%, #F37055 15%, #EF4E7B 30%, #A166AB 44%, #5073B8 58%, #1098AD 72%, #07B39B 86%, #6DBA82 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+rainbowText{
+  background-image: linear-gradient(90deg, #F79533 0%, #F37055 15%, #EF4E7B 30%, #A166AB 44%, #5073B8 58%, #1098AD 72%, #07B39B 86%, #6DBA82 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
+
