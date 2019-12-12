@@ -13,5 +13,8 @@ run npm install
 npm start
 
 Your front end should start, and your browser should open and display the page. Should end up looking something like this
-![Queer-e Website](image_url)
+![Queer-e Website](frontend\frontened.png)
+
+
+## For more info check out the report
 
