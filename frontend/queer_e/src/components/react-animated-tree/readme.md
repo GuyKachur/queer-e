@@ -1,3 +1,7 @@
+Componenet taken from https://github.com/drcmda/react-animated-tree
+Modified only slightly, to allow events to be passed to onClick
+
+
 [![Build Status](https://travis-ci.org/drcmda/react-animated-tree.svg?branch=master)](https://travis-ci.org/drcmda/react-animated-tree) [![npm version](https://badge.fury.io/js/react-animated-tree.svg)](https://badge.fury.io/js/react-animated-tree)
 
     npm install react-animated-tree
